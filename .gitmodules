@@ -1,3 +1,6 @@
 [submodule "Alaster-Linux-images"]
 	path = Alaster-Linux-images
 	url = https://github.com/AlasterLinux/Alaster-Linux-images
+[submodule "Alaster-Linux-core-packages"]
+	path = Alaster-Linux-core-packages
+	url = https://github.com/AlasterLinux/Alaster-Linux-core-packages
